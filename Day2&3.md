@@ -91,7 +91,7 @@ Indexing -
 
 Transaction -
 
-	
+	While updating many documents in single querry, the whole update process is not atomic but the single update is atomic.
 	
 Sharding - 
 
